@@ -7,3 +7,7 @@
 | 3 | [Data Structures](https://github.com/ByteAcademyCo/Exercises/tree/master/data_structures) |
 | 4 | [Algorithms](https://github.com/ByteAcademyCo/Exercises/tree/master/algorithms) |
 | 5 | [Software Theory](https://github.com/ByteAcademyCo/Exercises/tree/master/software_theory) |
+
+
+
+Tesintg 
